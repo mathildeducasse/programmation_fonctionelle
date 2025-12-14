@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/ubuntu/scala/devoir_pf/programation_fonctionelle/project/"), "programation_fonctionelle-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating programation_fonctionelle-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved programation_fonctionelle-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of programation_fonctionelle-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of programation_fonctionelle-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/ubuntu/scala/devoir_pf/programation_fonctionelle/project/"), "programation_fonctionelle-build")[0m

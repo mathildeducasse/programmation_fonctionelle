@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/ubuntu/scala/devoir_pf/programation_fonctionelle/src/main/scala/mathilde/Main.scala:38:18 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m        entity <- ZIO.fromEither(body.fromJson[CreateToDoRequest]).mapError(_ => Errors.JsonPayloadError)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                  ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                  Not found: ZIO[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/ubuntu/scala/devoir_pf/programation_fonctionelle/src/main/scala/mathilde/Main.scala:45:18 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m45 |[0m          uuid <- ZIO.attempt(UUID.fromString(id))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                  ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                  Not found: ZIO[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

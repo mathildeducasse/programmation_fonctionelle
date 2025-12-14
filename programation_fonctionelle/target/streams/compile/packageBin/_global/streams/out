@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/root_3-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Errors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Errors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$ToDo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$ToDo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Errors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Errors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Errors.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Errors.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$ToDo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$ToDo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Errors$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Errors$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$CreateToDoRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$CreateToDoRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mathilde/Main$CreateToDoRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/scala/devoir_pf/programation_fonctionelle/target/scala-3.4.1/classes/mathilde/Main$CreateToDoRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
