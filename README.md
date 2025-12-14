@@ -1,6 +1,8 @@
 # programmation_fonctionelle
 Web serveur HTTP
 
+Ce serveur HTTP (avec ZIO) permet de construire sa to do list. On peut ajouter une tâche avec un nom et une description (POST), recuperer toutes les tâches de la to do list (GET), et même en supprimer avec l'id de la tâche (DELETE). 
+Comme la partie DELETE n'était pas demandé, elle n'est pas disponible à tester sur l'application web streamlit mais peut être tester avec un curl par exemple. 
 
 **Part 0 - Reccuperer le git**
 -> `git clone`
