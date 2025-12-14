@@ -7,22 +7,22 @@ Comme la partie DELETE n'était pas demandé, elle n'est pas disponible à teste
 **Part 0 - Reccuperer le git**
 -> `git clone`
 
-**Part 1 - Le serveur**
-`cd programmation_fonctionelle`
-`sbt run`
+**Part 1 - Le serveur** \n
+`cd programmation_fonctionelle`\n
+`sbt run`\n
 
 Il est possible de le tester dans un autre terminal avec "curl". Mais pour le tester plus simplement : 
 
-**Part 2 - Tester le serveur sur une app Streamlit**
+**Part 2 - Tester le serveur sur une app Streamlit**\n
 
--> Avant de pouvoir lancer l'app : 
+-> Avant de pouvoir lancer l'app : \n
 
-(Il faut être à la racine du projet)
+(Il faut être à la racine du projet)\n
+\n
+`python -m venv .venv`\n
+`source .venv/bin/activate`\n
+(.venv) `pip install streamlit`\n
 
-`python -m venv .venv`
-`source .venv/bin/activate`
-(.venv) `pip install streamlit`
+->Lancer l'app\n
 
-->Lancer l'app
-
-(.venv) `streamlit run app.py`
+(.venv) `streamlit run app.py`\n
