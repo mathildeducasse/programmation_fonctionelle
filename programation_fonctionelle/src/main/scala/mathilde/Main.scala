@@ -7,21 +7,20 @@ import java.util.UUID
 import zio.ZIO
 
   enum Errors:
-  case JsonPayloadError
-  case IdFormatError
-  case NotFoundError
+    case JsonPayloadError
+    case IdFormatError
+    case NotFoundError
 
 object Main extends ZIOAppDefault:
-
 
   case class ToDo(id: UUID, title: String, description: String)
 
   case class CreateToDoRequest(title: String, description: String)
 
   val database = List(
-  ToDo(UUID.fromString("612f2cdd-f7a7-4109-bcae-4e566e7e51fc"), "Laver mon appart", "Salle de bain, vaisselle, sol, table"),
-  ToDo(UUID.fromString("0f16753c-077b-4d6e-b929-a4ad66830af3"), "Faire des machines", "blancs et couleurs séparé"),
-  ToDo(UUID.fromString("5c2c5817-5d65-4537-ab26-f1447b196028"), "Arroser plantes", "si la terre est seche")
+  ToDo(UUID.fromString("58e0a7d7-eebc-11d8-9669-0800200c9a61"), "Laver mon appart", "Salle de bain, vaisselle, sol, table"),
+  ToDo(UUID.fromString("58e0a7d7-eebc-11d8-9669-0800200c9a62"), "Faire des machines", "blancs et couleurs séparé"),
+  ToDo(UUID.fromString("58e0a7d7-eebc-11d8-9669-0800200c9a63"), "Arroser plantes", "si la terre est seche")
   ).map(todo => todo.id -> todo).to(collection.mutable.Map)
 
   given JsonEncoder[ToDo]              = DeriveJsonEncoder.gen[ToDo]
